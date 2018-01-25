@@ -1,3 +1,6 @@
+/*
+@ author Taha Pipewala
+*/
 import java.util.*;
 class LinearRegression{
 	public static void main(String args[]){
